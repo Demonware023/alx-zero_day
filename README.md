@@ -1,1 +1,1 @@
-My first readme 0x03-git
+This file is mandatory in projects
